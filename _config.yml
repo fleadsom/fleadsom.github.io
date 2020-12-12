@@ -22,16 +22,19 @@ title: Fred Blogs
 email: fleadsom@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I'm Freddie. I'm a Software Engineer, Data Science enthusiast, amateur Crossfit
-  athlete and traveller. This blog is for ideas, useful experiences and inspiration.
+  athlete and traveller. This blog is to share ideas, useful experiences and inspiration
+  with fellow aspiring masters of the universe.
   Please email me or find me on LinkedIn!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://freddieleadsom.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fleadsom
+linkedin_username: fleadsom
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
