@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# Minimal mistakes footer links
+# Minimal Mistakes theme https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 footer:
   links:
     - label: "LinkedIn"
@@ -45,6 +45,16 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fleadsom"
+
+# Author sidebar
+author:
+  name     : "Freddie Leadsom"
+  avatar   : "/assets/images/profile.jpeg"
+  bio      : "Hi! I'm Freddie. I'm a Software Engineer, Data Science enthusiast, amateur Crossfit
+  athlete and traveller. This blog is to share ideas, useful experiences and inspiration
+  with fellow aspiring masters of the universe.
+  Please email me or find me on LinkedIn!"
+  location : "London, UK"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
