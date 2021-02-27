@@ -44,16 +44,21 @@ defaults:
       type: posts
     values:
       author_profile: true
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 title: Fred Blogs
 subtitle: "A place for ideas, experiences and interesting thoughts..."
 name: "Freddie Leadsom"
 email: fleadsom@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm Freddie. I'm a Software Engineer, Data Science enthusiast, amateur Crossfit
+  Hi! I'm Freddie: a Software Engineer, Data Science enthusiast, amateur Crossfit
   athlete and traveller. This blog is to share ideas, useful experiences and inspiration
   with fellow aspiring masters of the universe.
-  Please email me or find me on LinkedIn!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://freddieleadsom.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fleadsom
