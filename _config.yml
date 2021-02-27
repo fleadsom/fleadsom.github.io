@@ -38,6 +38,13 @@
 #   - vendor/gems/
 #   - vendor/ruby/
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
 title: Fred Blogs
 subtitle: "A place for ideas, experiences and interesting thoughts..."
 name: "Freddie Leadsom"
