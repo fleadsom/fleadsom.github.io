@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Hey"
 ---
 # Hi! I'm Fred. What's the point in this site?
