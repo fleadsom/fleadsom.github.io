@@ -59,7 +59,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   athlete and traveller. This blog is to share ideas, useful experiences and inspiration
   with fellow aspiring masters of the universe.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://freddieleadsom.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fleadsom.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fleadsom
 linkedin_username: fleadsom
 
@@ -89,4 +89,5 @@ author:
   athlete and traveller. This blog is to share ideas, useful experiences and inspiration
   with fellow aspiring masters of the universe.
   Please email me or find me on LinkedIn!"
+  email: "fleadsom@me.com"
   location : "London, UK"
