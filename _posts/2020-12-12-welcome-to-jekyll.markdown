@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Hey"
-date:   2020-12-12 10:57:35 +0000
 ---
 # Hi! I'm Fred. What's the point in this site?
 
