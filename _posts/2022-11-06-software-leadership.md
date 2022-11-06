@@ -2,7 +2,7 @@
 layout: single
 title:  "Roles & Responsibilities of Software Leadership"
 ---
-# Java? Backend? "Senior Engineer"? CTO? A formula for leading software projects.
+###### Java? Backend? "Senior Engineer"? CTO? A formula for leading software projects.
 
 My last blog was nearly 18 months ago, and remembering where I was then it feel like a generation has passed. Then I was a budding Data Engineer with a couple of minor projects; interested in everything and involved in too much. Now I'm leading a team of twelve of the most impressive professionals I've ever worked with, solving a very clear problem that will define the make of our FinTech unicorn.
 

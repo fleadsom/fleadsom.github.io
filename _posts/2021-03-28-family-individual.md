@@ -2,7 +2,7 @@
 layout: single
 title:  "The Society, The Family, The Individual."
 ---
-# It's all about me! A historical comparison of the achievement of value, its impact on a team, and lessons for leadership.
+###### It's all about me! A historical comparison of the achievement of value, its impact on a team, and lessons for leadership.
 
 Recently, I've been reading a lot more broadly. I normally read a lot of maths books, theoretical physics & self-empowerment type books. But in the last few months, three authors have really caught my attention:
 * "The Silk Roads: A New History of the World" - Peter Frankopan
