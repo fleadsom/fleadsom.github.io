@@ -40,27 +40,27 @@ With the great help of Bungay, I have concluded there are six key responsibiliti
   * *Frequency: constant at the same intensity*
 
 To match these responsibilities, I have identified five roles that span the majority of the web of job titles one can find in software, and mapped them to the above responsibilities in order of priority:
-1. Director/CTO
-  a. Directorship
-  b. Leadership
-  c. Management
-2. Product Owner / Product Manager
-  a. Leadership
-  b. Management
-  c. Product
-  d. Architecture / Design
-3. Lead Engineer
-  a. Architecture
-  b. Leadership
-  c. Product
-  d. Engineering
-4. Senior Engineer
-  a. Architecture
-  b. Engineering
-  c. Product
-5. Mid / Junior Engineer
-  a. Engineering
-  b. Architecture
+* Director/CTO
+  1. Directorship
+  2. Leadership
+  3. Management
+* Product Owner / Product Manager
+  1. Leadership
+  2. Management
+  3. Product
+  4. Architecture / Design
+* Lead Engineer
+  1. Architecture
+  2. Leadership
+  3. Product
+  4. Engineering
+* Senior Engineer
+  1. Architecture
+  2. Engineering
+  3. Product
+* Mid / Junior Engineer
+  1. Engineering
+  2. Architecture
 
 The emphasis here is the order of priority. You will notice that Engineering is bottom of the priority list for a Lead Engineer. This might sound strange, but is in fact the defining feature of that role as a Lead, not a Senior. If the Lead IC prioritises their own delivery over the Architecture of the system or their influence over their team, you will find beautifully efficient and masterfully crafted modules of code integrated into a platform that either feeds data seamlessly into the hopelessly thrashed and poorly optimised downstream modules, or that are forever condemned to their cell within an impossibly rigid architecture. In contrast, it is the role of the Senior Engineer to be tasked with the most advanced algorithms and optimisations of the platform, and deliver the breakthroughs and gold-plated modules that form the bedrock of innovation within the platform.
 
